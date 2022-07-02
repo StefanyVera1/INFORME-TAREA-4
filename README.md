@@ -5,22 +5,22 @@
  <b>OBJETIVOS<p> 
 Objetivo General:
 <dl>
- <dd>Identificar de manera correcta un circuito en serie y en paralelo, así mismo, aplicar adecuadamente las leyes correspondientes para resolver los problemas planteados y comprender los diagramas establecidos a lo largo de los capítulos.</dd>
+ <dd>Aplicar las leyes de manera adecuada en los ejercicios propuestos, así como recordar el concepto de cada teorema para así emplearlos en los mismos. Además, identificar las relaciones existentes en cada circuito.</dd>
 </dl>
 Objetivos Específicos:
 <ul>
- <li>Determinar el efecto total de una fuente de corriente en paralelo.</li>
- <li>Determinar el voltaje a través de cada rama en paralelo.</li>
- <li>Determinar el efecto total de fuentes de voltaje conectadas en serie.</li>
+ <li>Interpretar la relación existente en un circuito serie-paralelo</li>
+ <li>Aplicar de manera adecuada los teoremas correspondientes(superposición, Thevenin, Norton)</li>
+ <li>Analizar los circuitos que se presenten y emplear las leyes adecuadas</li>
 </ul>
 <b>MARCO TEÓRICO <p>
  <dl>
   <dd>SECCIÓN 7</dd>
-   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec5/cap5.JPG" width="400" height="550"></dd> 
-   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec5/cap5.1.JPG" width="400" height="550"></dd> 
+   <dd><div align="center"><img src="" width="400" height="550"></dd> 
+   <dd><div align="center"><img src="" width="400" height="550"></dd> 
    <dd>SECCIÓN 8</dd>
-   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec5/cap5.JPG" width="400" height="550"></dd> 
-   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec5/cap5.1.JPG" width="400" height="550"></dd> 
+   <dd><div align="center"><img src="" width="400" height="550"></dd> 
+   <dd><div align="center"><img src="" width="400" height="550"></dd> 
 </dl>
   <b>EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
