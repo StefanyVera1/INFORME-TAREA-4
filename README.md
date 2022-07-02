@@ -31,7 +31,7 @@ Objetivos Específicos:
 (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
 (b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
 </dd>
- <dd><div align="center"><img src=""  width="350" height="300"></div></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-4/blob/main/img/sec7/ej2.JPG"  width="350" height="300"></div></dd>
 <dd>4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.</dd>
  <dd><div align="center"><img src=""></div></dd>
  <dd>*6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor. </dd>
